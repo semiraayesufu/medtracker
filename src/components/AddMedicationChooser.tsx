@@ -1,5 +1,5 @@
 import closeIcon from "../assets/icons/close.svg";
-import searchIcon from "../assets/icons/search-sm.svg";
+import searchIcon from "../assets/icons/search.svg";
 import editIcon from "../assets/icons/edit.svg";
 import uploadIcon from "../assets/icons/upload.svg";
 import chevronRight from "../assets/icons/chevron-right.svg";
