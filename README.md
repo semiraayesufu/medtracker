@@ -16,7 +16,7 @@ I designed it around a few constraints. It had to work as a quick, solo lookup (
 
 ## Try it
 
-- [Live demo](https://semiraayesufu.github.io/product-what-ifs/medtracker/dist/)
+- [Live demo](https://semiraayesufu.github.io/medtracker/dist/)
 - Or run it locally:
   ```
   npm install
