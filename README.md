@@ -2,24 +2,17 @@
 
 Check whether a new medication is safe to take with what you're already on, in seconds.
 
-**[Live demo](https://semiraayesufu.github.io/medtracker/dist/)**
+[Live demo](https://semiraayesufu.github.io/medtracker/dist/)
 
 ## What it does
 
-- **Check** any drug, or several at once, against each other and your saved medications, allergies and conditions. Results come live from [openFDA](https://open.fda.gov/).
-- **Understand** each result, including what the severity means and what to do next.
-- **Track** medications, allergies and conditions, with a history of past checks.
-
-No account or saved profile is needed for a quick check.
+- Checks one or more drugs for interactions, against each other and against any medications, allergies or conditions you've entered. Results come live from [openFDA](https://open.fda.gov/).
+- Explains each result: what the severity means and what to do next.
+- Keeps a session history of your checks. No account needed.
 
 ## Built with
 
-React, TypeScript, Vite and Tailwind CSS. There's no backend. Data stays in the browser for the session.
-
-```
-npm install
-npm run dev
-```
+React, TypeScript, Vite and Tailwind CSS. No backend. Everything stays in the browser for the session.
 
 ## Note
 
